@@ -1,0 +1,44 @@
+    body{background-color: darkblue;}
+	
+	#mainDiv{
+	  margin-top: 5%; 
+	  background-color:white;
+	}
+	
+	h1{
+	  font-weight:bold; 
+	  color:darkblue; 
+	  padding-bottom:2%;
+	}
+	
+	#quoteDiv {
+	  font-size: 24px; 
+	  text-align: left; 
+	  padding-top:1%;
+	  padding-bottom:1%;
+	  color:darkblue;
+	}
+
+	#title{
+	  text-align: right;
+	}
+	
+	#bt_new_quote{
+	  background-color: darkblue; 
+	  color:white; 
+	  font-weight:bold
+	}
+	
+	#share{
+	  background-color:darkblue; 
+	  width:46%
+	}
+	
+	hr{
+	  border:0;
+	  background-color:darkblue;
+	  color:darkblue;
+	  height:1px;
+	}
+	
+	#foot_er{color:darkblue;}
